@@ -1,0 +1,9 @@
+ Volume in drive C is OS
+ Volume Serial Number is 0AB7-F847
+
+ Directory of C:\MyProject
+
+08/06/2024  03:15 PM    <DIR>          .
+08/06/2024  03:15 PM                 0 test.txt
+               1 File(s)              0 bytes
+               1 Dir(s)  195,492,098,048 bytes free
